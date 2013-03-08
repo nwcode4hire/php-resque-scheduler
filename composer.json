@@ -12,12 +12,5 @@
 		"psr-0": {
 			"ResqueScheduler": "lib/"
 		}
-	},
-	"repositories": [
-		{ "type": "git", "url": "https://github.com/chrisboulton/php-resque" }
-	],
-	"require": {
-		"chrisboulton/php-resque": "dev-master"
-	},
-	"minimum-stability": "dev"
+	}
 }
